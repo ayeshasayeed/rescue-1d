@@ -1,0 +1,80 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///w8AAAAA/yIiDwAAAAD/8i8PAAAAAC8iIg8AAAAA////DwAAAAAv/y8PAAAAAC8iIg8AAAAAL///DwAAAAD///8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "tile2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//w8AAAAAAH93DwAAAAAA//cPAAAAAAB/dw8AAAAAAP//DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile0"
+    },
+    "tile3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAADw//8PAAAAAPCIiA8AAAAA8P+PDwAAAADw//8PAAAAAPCIiA8AAAAA8PiPDwAAAADwiIgPAAAAAPD//w8AAAAA8IiIDwAAAADw/48PAAAAAPCIiA8AAAAA8P//DwAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile1"
+    },
+    "tile4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAADw////DwAAAPAvIvIPAAAA8C8v/w8AAADwLyL/DwAAAPD///IPAAAA8P///w8AAADwLyLyDwAAAPAv//8PAAAA8C8i8g8AAADw////DwAAAPAvIvIPAAAA8C//8g8AAADwLyLyDwAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile2"
+    },
+    "tile5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAPD///8PAAAA8Hd3dw8AAADwd3d3DwAAAPB3d3cPAAAA8BEREQ8AAADwERERDwAAAPAREREPAAAA8BEREQ8AAADwREREDwAAAPBEREQPAAAA8ERERA8AAADw////DwAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile3"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDA1MDEwMTA2MDgwNTAxMDEwMTAxMDEwMTAxMDYwODA4MDMwODA4MDQwMTAyMDgwODA4MDgwODA4MDgwNDAxMDYxNDAxMDgwODA4MDgwODA1MDgwODA4MDgwMzA4MDgwMzA4MDgwODA1MDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAyMDgwNTA2MDQwNjA4MDgxMzE2MDgwODA4MDMwODA4MDgwODA0MDEwMTAyMGEwZjEzMTYwZjBlMDgwODA4MDgwODFjMDgwMzA4MDgwYjA5MTUxNTA5MTEwODA1MDEwNjA3MDgwODAzMDgwODBiMDkxMjEyMDkxMTA4MDMwODAzMDcwMTAxMDIwODA4MGIwOTEyMTcwOTExMDgwMzA4MDMwNzA0MDEwMTAxMDEwYjA5MDkwOTA5MTEwODAzMDgwNDA2MDgwODA4MDgwMzBjMTAxMDEwMTAwZDA4MDMwODA1MDEwODFjMWMwODAzMDgwODA4MDgwODA1MDEwMjA4MDQwMTA4MDgwODA4MDMwODFjMWMxYzA4MDMwODA4MDgwODAzMDUwMTAxMDEwMjA4MDgwODA4MDgwMzA4MWQxZDA4MDMwMzA4MDgwODA4MDgwODA1MDEwMTAyMDgxZDFkMDgxMzA0MDEwMTAxMDEwMTAxMDIwODA4MDgwODA4MDgwODEzMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.vehicle.roadHorizontal",
+            "sprites.vehicle.roadTurn4",
+            "sprites.vehicle.roadVertical",
+            "sprites.vehicle.roadTurn3",
+            "sprites.vehicle.roadTurn1",
+            "sprites.vehicle.roadTurn2",
+            "sprites.dungeon.hazardLava1",
+            "sprites.dungeon.hazardLava0",
+            "sprites.castle.tileGrass1",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tileGrass2",
+            "sprites.vehicle.roadIntersection2",
+            "sprites.swamp.swampTile13",
+            "sprites.vehicle.roadIntersection3",
+            "sprites.vehicle.roadIntersection4",
+            "myTiles.tile1",
+            "myTiles.tile2",
+            "myTiles.tile3",
+            "myTiles.tile4",
+            "myTiles.tile5",
+            "sprites.dungeon.buttonTealDepressed",
+            "sprites.dungeon.buttonTeal"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
